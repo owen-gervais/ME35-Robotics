@@ -1,3 +1,6 @@
+# Magic Muse
+This project used an Arduino Nano with a built-in IMU in order to capture swipe gesture data to play the C major scale. 
+
 ## ```main.py ```
 This is the main 
 **micropython**
