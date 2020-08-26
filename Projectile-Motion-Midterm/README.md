@@ -1,15 +1,11 @@
 # Magic Muse
-This project used an Arduino Nano with a built-in IMU in order to capture swipe gesture data to play the C major scale. 
+This project tasked us to make a ball launcher that used two different methods to accurately target a cup. 
 
 ## ```main.py ```
 This is the main 
 **micropython**
-for the EV3 for the Magic Muse project. It reads the **Arduino IMU** data through **Serial** in order to register and play correct pitches with the swipe of the wand. 
+for the EV3 for the Midterm Project. It calculates the amount of force necessary to hit a ball into a cup based on the user selected mode. The user can choose between Newton or AI models. 
 
-## ```main.ino ```
-This is the main 
-**arduino sketch**
-for the Nano IOT 33 BLE so that it can publish the onboard **IMU** data to the EV3
 
 ## Complete Project Documentation
-If you would like to check out the completed project check out this [page](https://owengervais.myportfolio.com/magic-wand) for photos and videos of the final build.
+If you would like to check out the completed project check out this [page](https://owengervais.myportfolio.com/projectile-motion-me35-midterm) for photos and videos of the final build.
