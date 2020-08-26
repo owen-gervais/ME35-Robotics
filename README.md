@@ -20,3 +20,6 @@ This project used an Arduino Nano with a built-in IMU in order to capture swipe 
 ## ```Oxidizer```
 
 This project utilized photoresitors to detect intensity of light and send to the EV3 for processing and correction. This whole process was **PID** tuned. 
+
+## ```Projectile-Motion-Midterm```
+This project tasked us to make a ball launcher that used two different methods to accurately target a cup. 
