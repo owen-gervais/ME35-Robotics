@@ -1,4 +1,4 @@
-# Magic Muse
+# Projectile-Motion-Midterm
 This project tasked us to make a ball launcher that used two different methods to accurately target a cup. 
 
 ## ```main.py ```
