@@ -17,3 +17,6 @@ This is the codebase for the bucket launcher allowing for drive control using th
 ## ```Magic Muse```
 This project used an Arduino Nano with a built-in IMU in order to capture swipe gesture data to play the C major scale. 
 
+## ```Oxidizer```
+
+This project utilized photoresitors to detect intensity of light and send to the EV3 for processing and correction. This whole process was **PID** tuned. 
