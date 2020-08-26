@@ -13,3 +13,7 @@ sending haptic feedback signals over UART between two EV3 bricks.
 
 This is the codebase for the bucket launcher allowing for drive control using the Systemlink dashboards and API
 
+
+## ```Magic Muse```
+This project used an Arduino Nano with a built-in IMU in order to capture swipe gesture data to play the C major scale. 
+
