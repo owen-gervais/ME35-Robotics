@@ -23,3 +23,7 @@ This project utilized photoresitors to detect intensity of light and send to the
 
 ## ```Projectile-Motion-Midterm```
 This project tasked us to make a ball launcher that used two different methods to accurately target a cup. 
+
+## ```Red-LEGO-Sorter```
+This project utilized **OpenCV** running on a Raspberry Pi Zero detecting RED legos and sending the data over Serial to the EV3. 
+
